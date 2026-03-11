@@ -1,6 +1,6 @@
 <strong>
 
-<a href="https://www.novusaegis.ai/"><img src="https://github.com/user-attachments/assets/7cc36242-a765-47c3-baf4-375cf333a793" alt="Banner" title="Novus Aegis AI"></a>
+<a href="https://www.novusaegis.ai/"><img src="Novusaegis-ai.png" alt="Banner" title="Novus Aegis AI"></a>
 
 <div align="center">
 
