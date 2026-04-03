@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://www.novusaegis.ai/">Website</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.novusaegis.ai/integrations">Integrations</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.novusaegis.ai/ai-soc-analyst">AI SOC Analyst</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.novusaegis.ai/blog">Blogs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://discord.com/invite/HJTtfNrJg">Discord</a>
+<a href="https://www.novusaegis.ai/">Website</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.novusaegis.ai/integrations">Integrations</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.novusaegis.ai/ai-soc-analyst">AI SOC Analyst</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.novusaegis.ai/blog">Blogs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://discord.com/invite/HJTtfNrJg">Discord</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://medium.com/@novusaegis.ai">Medium</a>
   
 </div>
 
